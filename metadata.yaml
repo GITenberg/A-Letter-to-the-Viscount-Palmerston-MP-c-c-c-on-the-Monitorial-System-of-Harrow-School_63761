@@ -1,0 +1,30 @@
+_repo: A-Letter-to-the-Viscount-Palmerston-MP-c-c-c-on-the-Monitorial-System-of-Harrow-School_63761
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Vaughan, C. J. (Charles John)
+    aliases:
+    - Vaughan, Charles John
+    - Vaughan, Chas. J. (Charles John)
+    birthdate: 1816
+    deathdate: 1897
+    gutenberg_agent_id: '52575'
+    url: http://www.gutenberg.org/2009/agents/52575
+    wikipedia: https://en.wikipedia.org/wiki/Charles_Vaughan_(priest)
+description: ''
+gutenberg_issued: '2020-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63761'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Harrow School'
+- !lcc 'LF'
+- !lcsh 'Monitorial system of education'
+- GITenberg
+title: A Letter to the Viscount Palmerston, M.P. &c. &c. &c. on the Monitorial System
+  of Harrow School
+url: http://www.gutenberg.org/ebooks/63761
